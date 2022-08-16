@@ -1,0 +1,6 @@
+.box{
+    width: max-content;
+    display: flex;
+    margin: auto;
+    gap: 15px;
+}

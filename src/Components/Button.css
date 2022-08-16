@@ -1,0 +1,60 @@
+
+/* red, yellow, orange, green  sm, md, lg, xl*/
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 2;
+    border-radius: 3px;
+    background-color: rgb(179, 171, 171);
+}
+.white{
+    background-color: white;
+    color: black;
+    
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.sm{
+    height: 20px;
+    width: 70px;
+    font-size: bold;
+}
+.md{
+    height: 30px;
+    width: 100px;
+}
+.lg{
+    height: 40px;
+    width: 120px;
+}
+.xl{
+    height: 50px;
+    width: 140px;
+   
+}
+/* .solid{
+    background-color: ;
+ 
+} */
+.outline{
+    border: none;
+    background-color: none;
+    outline: 1px solid ;
+}
+.ghost{
+    background-color: none;
+    outline: none;
+    font-size: bold;
+}
